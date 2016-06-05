@@ -14,6 +14,6 @@ Run `grunt serve` to view the website in a browser with the usual live reloading
 
 Run `grunt build` to produce the `dist` folder that contains the combined and minified website files.
 
-## Fontawsome
+## Font Awesome
 
 The `app/index.html` file contains a CDN link to the [Font Awesome](http://fontawesome.io) stylesheet to work around the issue of Font Awesome not being copied into the `dist` folder after running `grunt build` or `grunt serve:dist`.
